@@ -22,6 +22,7 @@ cin >> a >> b >> opzione;
 
      default:
          cout << "Opzione non valida" << endl;
+   break;
  }
     return 0;
 }
