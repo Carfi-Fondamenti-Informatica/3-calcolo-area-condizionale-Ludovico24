@@ -2,10 +2,13 @@
 using namespace std;
 
 int main() {
-float a=0, b=0;
+float a=0;
+float b=0;
 int opzione=0;
 
-cin >> a >> b >> opzione;
+ cin >> a;
+ cin >> b;
+ cin >> opzione;
 
  switch (opzione){
      case 0:
